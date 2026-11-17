@@ -4,6 +4,10 @@ São estruturas lógicas de passos finitos e organizados para se chegar a um obj
 
 Reprodução de padrões ou rotinas também podem ser categorizadas como algoritmos.
 
+# Algoritmos Computacionais
+
+São passos a serem seguidos por algum módulo de processamento e seus respectivos usuários, que sef orem executados na ordem correta, realizam uma determinada tarefa.
+
 ### Exemplo:
 ```bash
 Algoritmo AtravessarRua
